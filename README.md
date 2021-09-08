@@ -8,3 +8,4 @@
 ### Технологии в проекте
 - HTML
 - CSS
+- JavaScript
